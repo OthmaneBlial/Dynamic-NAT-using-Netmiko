@@ -2,6 +2,27 @@
 Dynamic NAT using Netmiko 
 
 
-![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Dynamic%20NAT%20using%20Netmiko_Page1.jpg)
-![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Dynamic%20NAT%20using%20Netmiko_Page2.jpg)
-![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Dynamic%20NAT%20using%20Netmiko_Page3.jpg)
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/1.PNG)
+
+
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/2.PNG)
+
+
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/3.PNG)
+
+
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/4.PNG)
+
+
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/5.PNG)
+
+
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/6.PNG)
+
+
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/7.PNG)
+
+
+![alt tag](https://github.com/OthmaneBlial/Dynamic-NAT-using-Netmiko/blob/master/Tutorial/8.PNG)
+
+
